@@ -6,8 +6,6 @@ This is a simple Python program for my introductory cybersecurity class. It demo
 - **Caesar cipher:** Encrypts and decrypts text by shifting letters. Spaces, punctuation, and capitalization are preserved.
 - **RSA signatures:** Signs a message, verifies it, and shows that changing the message makes verification fail. The cryptography library handles RSA, and keys are not saved.
 
-The Caesar cipher is for learning only and is not secure for real use.
-
 ## How to Run
 
 Install Python 3 and open this folder in VS Code. In **Terminal > New Terminal**, run:
